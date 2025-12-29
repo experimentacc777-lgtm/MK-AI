@@ -1,0 +1,7 @@
+{
+  "name": "MK AI",
+  "description": "An ultra-advanced AI web application with live voice chat, smart image generation with watermarking, and intelligent multilingual conversational capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
